@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+}
+
+.logo {
+  width: 10rem;
+}
+
+.container {
+  padding-top: 10rem;
+  max-width: 600px;
+}
+.container h1 {
+  font-size: 3.7rem;
+  text-align: left;
+}
+.container .profile {
+  width: 8rem;
+}
+.container .pencil-container {
+  height: 25px;
+  width: 25px;
+  top: 101px;
+  left: 2px;
+}
+.container input {
+  width: 23rem;
+  margin-right: 35px;
+}
+.container .dropdown button {
+  padding: 1px;
+  text-align: center;
+}
+.container .dropdown h4 {
+  font-size: 20px;
+  text-align: left;
+}
+.container .dropdown h4 .space {
+  letter-spacing: 102em;
+}
+
+.container-2 {
+  width: 404px;
+  margin-left: auto;
+  text-align: left;
+}
+.container-2 .edit {
+  letter-spacing: 4px;
+}
+.container-2 input {
+  width: 30px;
+  height: 30px;
+  margin: 0;
+}/*# sourceMappingURL=style2.css.map */
